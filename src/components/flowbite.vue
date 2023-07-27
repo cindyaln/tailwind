@@ -73,4 +73,29 @@
   </the-card>
   </div>
 </div>
+
+<br>
+  <center><h1><b>SOCIOLLA</b></h1></center>
+  <div class="flex flex-row">
+  <div class="basis-1/2">
+    <the-card variant="image" img-src="https://images.soco.id/138-Alasan-Berkunjung-ke-Sociolla-Store-2.JPG.jpeg" img-alt="Desk">
+    <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
+  </the-card>
+</div>
+  <div class="basis-1/2">
+    <the-card variant="image" img-src="https://assets.ayobandung.com/crop/0x198:800x722/750x500/webp/photo/2022/04/19/506167581.jpg" img-alt="Desk">
+    <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
+  </the-card>
+</div>
+  <div class="basis-1/2">
+    <the-card variant="image" img-src="https://gokepri.com/gokepri/uploads/2022/05/DCC16365-18E5-4EB7-BFD6-6F43FA3779FE-e1652877662154.jpeg" img-alt="Desk">
+    <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
+  </the-card>
+  </div>
+  <div class="basis-1/2">
+    <the-card variant="image" img-src="https://asset-a.grid.id/crop/0x0:0x0/x/photo/2021/12/29/foto-sociolla-store-mal-ska-20211229033217.jpg" img-alt="Desk">
+    <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
+  </the-card>
+  </div>
+</div>
   </template>
